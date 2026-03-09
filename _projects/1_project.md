@@ -1,7 +1,7 @@
 ---
 layout: page
 title: jawn.fr
-description: personal + filehosting website. work with js frameworks
+description: personal + filehosting website. built on html, css, and javascript.
 img: assets/img/flying2.gif
 redirect: https://jawn.fr
 importance: 1
