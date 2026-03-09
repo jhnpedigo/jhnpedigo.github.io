@@ -28,9 +28,9 @@ ninja.data = [{
           description: "personal + filehosting website. work with js frameworks",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
-            },},{id: "projects-project-2",
-          title: 'project 2',
-          description: "a project with a background image and giscus comments",
+            },},{id: "projects-localized-weather-mod-for-minecraft",
+          title: 'localized weather mod for minecraft',
+          description: "makes the rainy days inside a little bit more immersive :) (java + web APIs)",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project/";
             },},{id: "teachings-data-science-fundamentals",
