@@ -1,8 +1,8 @@
 ---
 layout: page
-title: projects
+title:
 permalink: /projects/
-description: A glance into what I've been working on
+description:
 nav: true
 nav_order: 3
 display_categories: [work, fun]
@@ -10,6 +10,7 @@ horizontal: true
 ---
 
 <!-- pages/projects.md -->
+## A glance into what I've been working on
 <div class="projects">
 {% if site.enable_project_categories and page.display_categories %}
   <!-- Display categorized projects -->
