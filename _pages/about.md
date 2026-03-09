@@ -24,6 +24,10 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I'm a second year computer science student at the University of Central Florida, with a specific focus in cybersecurity. I'm particularly interested in understanding modern cryptography, cybercrime and forensics, and open source intelligence. You can find what I'm working on in the [projects](/projects/) page. Beyond academia, I enjoy bowling, fishing, and cultural anthropology!
+I'm a second year computer science student at the University of Central Florida, with a specific focus in cybersecurity. 
+
+I'm particularly interested in understanding modern cryptography, cybercrime and forensics, and open source intelligence. You can find what I'm working on in the [projects](/projects/) page. 
+
+Beyond academia, I enjoy bowling, fishing, and cultural anthropology!
 
 You can reach me via my email linked below.
