@@ -1,11 +1,10 @@
 ---
 layout: page
-title: project 2
-description: a project with a background image and giscus comments
-img: assets/img/3.jpg
+title: localized weather mod for minecraft
+description: makes the rainy days inside a little bit more immersive :) (java + web APIs)
+img: assets/img/rain.png
 importance: 2
-category: work
-giscus_comments: true
+category: fun
 ---
 
 Every project has a beautiful feature showcase page.
