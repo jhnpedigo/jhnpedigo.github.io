@@ -18,7 +18,7 @@ function determineGiscusTheme() {
 
   let giscusAttributes = {
     src: "https://giscus.app/client.js",
-    "data-repo": "jhnpedigo/folio",
+    "data-repo": "jhnpedigo/jhnpedigo.github.io",
     "data-repo-id": "",
     "data-category": "Comments",
     "data-category-id": "",
