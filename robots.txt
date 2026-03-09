@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://jhnpedigo.github.io/portfolio/sitemap.xml
+Sitemap: https://jhnpedigo.github.io/sitemap.xml
