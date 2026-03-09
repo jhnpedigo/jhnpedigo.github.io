@@ -25,7 +25,7 @@ ninja.data = [{
           },
         },{id: "projects-jawn-fr",
           title: 'jawn.fr',
-          description: "personal + filehosting website. work with js frameworks",
+          description: "personal + filehosting website. built on html, css, and javascript.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
             },},{id: "projects-localized-weather-mod-for-minecraft",
